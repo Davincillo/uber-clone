@@ -1,0 +1,1 @@
+App.js, store.js, slices> navSlices.js, screens> HomeScreen.js, 
